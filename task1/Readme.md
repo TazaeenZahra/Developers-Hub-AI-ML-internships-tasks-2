@@ -1,4 +1,4 @@
-# Task 2: End-to-End ML Pipeline with Scikit-learn Pipeline API
+# Task 1: End-to-End ML Pipeline with Scikit-learn Pipeline API
 ## Customer Churn Prediction Pipeline
 
 ## Objective
